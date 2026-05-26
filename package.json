@@ -1,0 +1,22 @@
+{
+  "name": "trabalho-ads-unicesumar",
+  "version": "1.0.0",
+  "main": "dist/menu.js",
+  "bin": "dist/menu.js",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "pkg": "^5.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "make-exe": "pkg . --targets node18-win-x64 --no-bytecode --output bin/TrabalhoTS.exe"
+  },
+  "pkg": {
+    "assets": [
+      "dist/**/*",
+      "node_modules/prompt-sync/**/*"
+    ]
+  }
+}
