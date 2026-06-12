@@ -8,17 +8,8 @@ DISCIPLINA: Programação Front-End
 PROFESSOR: José Carlos Domingues Flores
 TURMA: ADS 3º Período - Turma A
 
-COMPONENTES DO GRUPO:
+CRIADO POR:
 - Leonardo Henrique da Silva         (RA: 25164877-2)
-- Ryan Matheus Aparecido Da Silva    (RA: 25149031-2)
-- Kelly Cassiane Godk                (RA: 25161029-2)
-- Felipe Kuss Marques Belo           (RA: 25119623-2)
-- Rafael de Oliveira Ferreira        (RA: 25178076-2)
-- Diones Marcos Ferreira             (RA: 25148502-2)
-- Eduardo Leonel Santos              (RA: 25235104-2)
-- Thiago Pereira de Paula            (RA: 25349592-2)
-- Rafael Henrique Rodrigues Pasqual  (RA: 25160343-2)
-
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 1. DESCRIÇÃO DO PROJETO
